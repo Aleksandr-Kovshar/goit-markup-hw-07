@@ -439,7 +439,7 @@ filter-button:last child {
   margin-left: -30px;
   margin-top: -30px;
 }
-portfolio-list p {
+.portfolio-list p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -477,10 +477,7 @@ address {
 .footer-contacts:focus {
   color: var(--accent-color);
 }
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
+
 .portfolio-list-item {
   margin-left: 30px;
   margin-top: 30px;
@@ -764,7 +761,7 @@ img {
   align-items: center;
   width: 30px;
   height: 30px;
-  color: #;
+  color: #000000;
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
